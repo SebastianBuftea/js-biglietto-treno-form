@@ -10,18 +10,27 @@ body{
 }
 .container_{
     width: 1200px;
-    height: 100vh;
     margin: 0 auto;
 }
 
 .white_bg{
     background-color: white;
     width: 80%;
-    height: 200px;
     margin: 0 auto;
     padding: 20px;
     border-radius: 20px;
 }
 
+th:first-of-type{
+    background-color: grey;
+    height: 70px;
+}
 
+tr, th, td{
+    border: none;
+}
 
+table{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
