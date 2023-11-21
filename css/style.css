@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(55, 0, 255);
+
+}
+.container_{
+    width: 1200px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.white_bg{
+    background-color: white;
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+

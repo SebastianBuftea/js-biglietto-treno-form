@@ -30,5 +30,7 @@ Se non vi sentite particolarmente creativi, questa potrebbe essere un’implemen
 2- prendere in input l eta del passeggere
 3 fare il calcolo del prezzo intero 
 4.a se è minorenne applico il 20%
-4.b altrimenti se over 65 applico lo sconto del 60%
+4.b altrimenti se over 65 applico lo sconto del 40%
 5 stampo il console log il prezzo 
+
+<!-- MILESTONE 2 -->
