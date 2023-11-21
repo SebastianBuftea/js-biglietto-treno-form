@@ -24,6 +24,14 @@
      
  })
 
+ const buttondue= document.getElementById("reset");
+ buttondue.addEventListener("click", function(){
+    document.getElementById("nome_cognome").value=" ";
+    document.getElementById("numkm").value=" ";
+    document.getElementById("etapers").value="iniziale";
+})
+
+
  
 
 
